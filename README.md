@@ -1,7 +1,7 @@
 <h1 align="center">I'm thēຟilr໓</h1>
 <h3 align="center">front end developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
