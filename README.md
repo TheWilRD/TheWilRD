@@ -1,5 +1,5 @@
 <h1 align="center">I'm thēຟilr໓</h1>
-<h3 align="center" font-size="2px">front end developer</h3>
+<h3 align="center">front end developer</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
